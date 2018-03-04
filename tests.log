@@ -1,0 +1,45 @@
+[33m03 03 2018 23:25:27.921:WARN [karma]: [39mNo captured browser, open http://localhost:9876/
+[32m03 03 2018 23:25:27.936:INFO [karma]: [39mKarma v2.0.0 server started at http://0.0.0.0:9876/
+[32m03 03 2018 23:25:27.936:INFO [launcher]: [39mLaunching browsers Chrome, Firefox with unlimited concurrency
+[32m03 03 2018 23:25:27.940:INFO [launcher]: [39mStarting browser Chrome
+[32m03 03 2018 23:25:27.945:INFO [launcher]: [39mStarting browser Firefox
+[33m03 03 2018 23:25:31.724:WARN [karma]: [39mNo captured browser, open http://localhost:9876/
+[32m03 03 2018 23:25:32.134:INFO [Firefox 58.0.0 (Windows 8.1.0.0)]: [39mConnected on socket QMLm3WXAEjyjk0LLAAAA with id 85782519
+[32m03 03 2018 23:25:32.136:INFO [Chrome 64.0.3282 (Windows 8.1.0.0)]: [39mConnected on socket M2Kt6Wk9B9XclpT0AAAB with id 66144058
+Firefox 58.0.0 (Windows 8.1.0.0): Executed 0 of 9 SUCCESS (0 secs / 0 secs)
+[1A[2KFirefox 58.0.0 (Windows 8.1.0.0): Executed 1 of 9 SUCCESS (0 secs / 0.116 secs)
+[1A[2KFirefox 58.0.0 (Windows 8.1.0.0): Executed 2 of 9 SUCCESS (0 secs / 0.158 secs)
+[1A[2KFirefox 58.0.0 (Windows 8.1.0.0): Executed 3 of 9 SUCCESS (0 secs / 0.191 secs)
+[1A[2KFirefox 58.0.0 (Windows 8.1.0.0): Executed 4 of 9 SUCCESS (0 secs / 0.194 secs)
+[1A[2KFirefox 58.0.0 (Windows 8.1.0.0): Executed 5 of 9 SUCCESS (0 secs / 0.194 secs)
+[1A[2KFirefox 58.0.0 (Windows 8.1.0.0): Executed 6 of 9 SUCCESS (0 secs / 0.195 secs)
+[1A[2KFirefox 58.0.0 (Windows 8.1.0.0): Executed 7 of 9 SUCCESS (0 secs / 0.209 secs)
+[1A[2KFirefox 58.0.0 (Windows 8.1.0.0): Executed 8 of 9 SUCCESS (0 secs / 0.22 secs)
+[1A[2KFirefox 58.0.0 (Windows 8.1.0.0): Executed 9 of 9 SUCCESS (0 secs / 0.232 secs)
+[1A[2KFirefox 58.0.0 (Windows 8.1.0.0): Executed 9 of 9 SUCCESS (0.529 secs / 0.232 secs)
+
+[1A[2K[1A[2KFirefox 58.0.0 (Windows 8.1.0.0): Executed 9 of 9 SUCCESS (0.529 secs / 0.232 secs)
+Chrome 64.0.3282 (Windows 8.1.0.0): Executed 0 of 9 SUCCESS (0 secs / 0 secs)
+[1A[2K[1A[2KFirefox 58.0.0 (Windows 8.1.0.0): Executed 9 of 9 SUCCESS (0.529 secs / 0.232 secs)
+Chrome 64.0.3282 (Windows 8.1.0.0): Executed 1 of 9 SUCCESS (0 secs / 0.121 secs)
+[1A[2K[1A[2KFirefox 58.0.0 (Windows 8.1.0.0): Executed 9 of 9 SUCCESS (0.529 secs / 0.232 secs)
+Chrome 64.0.3282 (Windows 8.1.0.0): Executed 2 of 9 SUCCESS (0 secs / 0.162 secs)
+[1A[2K[1A[2KFirefox 58.0.0 (Windows 8.1.0.0): Executed 9 of 9 SUCCESS (0.529 secs / 0.232 secs)
+Chrome 64.0.3282 (Windows 8.1.0.0): Executed 3 of 9 SUCCESS (0 secs / 0.198 secs)
+[1A[2K[1A[2KFirefox 58.0.0 (Windows 8.1.0.0): Executed 9 of 9 SUCCESS (0.529 secs / 0.232 secs)
+Chrome 64.0.3282 (Windows 8.1.0.0): Executed 4 of 9 SUCCESS (0 secs / 0.198 secs)
+[1A[2K[1A[2KFirefox 58.0.0 (Windows 8.1.0.0): Executed 9 of 9 SUCCESS (0.529 secs / 0.232 secs)
+Chrome 64.0.3282 (Windows 8.1.0.0): Executed 5 of 9 SUCCESS (0 secs / 0.2 secs)
+[1A[2K[1A[2KFirefox 58.0.0 (Windows 8.1.0.0): Executed 9 of 9 SUCCESS (0.529 secs / 0.232 secs)
+Chrome 64.0.3282 (Windows 8.1.0.0): Executed 6 of 9 SUCCESS (0 secs / 0.2 secs)
+[1A[2K[1A[2KFirefox 58.0.0 (Windows 8.1.0.0): Executed 9 of 9 SUCCESS (0.529 secs / 0.232 secs)
+Chrome 64.0.3282 (Windows 8.1.0.0): Executed 7 of 9 SUCCESS (0 secs / 0.21 secs)
+[1A[2K[1A[2KFirefox 58.0.0 (Windows 8.1.0.0): Executed 9 of 9 SUCCESS (0.529 secs / 0.232 secs)
+Chrome 64.0.3282 (Windows 8.1.0.0): Executed 8 of 9 SUCCESS (0 secs / 0.22 secs)
+[1A[2K[1A[2KFirefox 58.0.0 (Windows 8.1.0.0): Executed 9 of 9 SUCCESS (0.529 secs / 0.232 secs)
+Chrome 64.0.3282 (Windows 8.1.0.0): Executed 9 of 9 SUCCESS (0 secs / 0.227 secs)
+[1A[2K[1A[2KFirefox 58.0.0 (Windows 8.1.0.0): Executed 9 of 9 SUCCESS (0.529 secs / 0.232 secs)
+Chrome 64.0.3282 (Windows 8.1.0.0): Executed 9 of 9 SUCCESS (0.368 secs / 0.227 secs)
+TOTAL: 18 SUCCESS
+TOTAL: 18 SUCCESS
+TOTAL: 18 SUCCESS
