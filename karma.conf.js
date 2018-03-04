@@ -30,9 +30,9 @@ module.exports = function (config) {
     colors: true,
     logLevel: config.LOG_INFO,
     autoWatch: true,
-    browsers: ['Chrome_without_sandbox'],
+    browsers: ['Chrome'],
     customLaunchers: {
-      Chrome_without_sandbox: {
+      Chrome: {
         base: 'Chrome',
         flags: ['--no-sanbox'] // with sandbox it fails under Docker
       }
