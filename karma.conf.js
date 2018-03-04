@@ -30,7 +30,7 @@ module.exports = function (config) {
     colors: true,
     logLevel: config.LOG_INFO,
     autoWatch: true,
-    browsers: ['ChromeNoSandbox'],
+    browsers: ['Chrome'],
     customLaunchers: {
       ChromeNoSandbox: {
         base: 'Chrome',
