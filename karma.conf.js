@@ -33,7 +33,7 @@ module.exports = function (config) {
     browsers: ['Chrome_without_sandbox'],
     customLaunchers: {
       Chrome_without_sandbox: {
-        base: 'Chrome',
+        base: 'ChromeHeadless',
         flags: ['--no-sanbox'] // with sandbox it fails under Docker
       }
     },
