@@ -34,7 +34,7 @@ module.exports = function (config) {
     customLaunchers: {
       Chrome_without_sandbox: {
         base: 'Chrome',
-        flags: ['--no-sandbox'] // with sandbox it fails under Docker
+        flags: ['--disable-setuid-sandbox'] // with sandbox it fails under Docker
       }
     },
     singleRun: true,
