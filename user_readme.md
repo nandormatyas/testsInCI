@@ -43,5 +43,22 @@
       - set destination bucket (bucket name on S3)
       - set bucket region (probably eu-central)7
       - check "No upload on build failure"
-        
+
+## Note:
+
+In your karma.config file you should have the followings:
+  - at plugins:
+    - require('karma-junit-reporter')
+    - require('karma-phantomjs-launcher')
+  - at reporters:
+    ['progress', 'kjhtml', 'dots', 'junit']
+  - at browsers:
+    - ['ChromeHeadless']
+  - at singleRun:
+    - true
+  - also new lines for unit reporter:
+    - junitReporter : {
+        outputDir: 'karma-results',
+        outputFile: 'karma-results.xml'
+      },
         
