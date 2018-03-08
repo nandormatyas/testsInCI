@@ -5,3 +5,4 @@ testing in progress..
 
 # [DevOps guide:](https://github.com/nandormatyas/testsInCI/blob/master/dev_readme.md)
 
+...
